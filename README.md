@@ -1,2 +1,2 @@
 # BSMS
-envio y conexion de entorno SMS y ispy
+Integracion de plataformas tecnologicas, SMS, UDP, para la seguridad de almacenes.
